@@ -2,6 +2,7 @@
 
 ## 업무흐름도
 
+![쇼핑몰 drawio (3)](https://github.com/jinhyoje/javaStudy/assets/84319636/83c5661f-3254-4b2b-b484-9020e1f7f3dc)
 
 1. Product 
 - 제품의 기본 정보 저장
