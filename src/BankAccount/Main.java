@@ -9,6 +9,7 @@ public class Main {
         bankAccount.withdraw(100);
         bankAccount.withdraw(100000);
         bankAccount.getBalance();
+        bankAccount.getAccountInfo();
 
 
     }

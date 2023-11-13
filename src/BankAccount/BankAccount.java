@@ -38,7 +38,7 @@ public class BankAccount {
     }
 
     void getAccountInfo() {
-        System.out.println("소유자 이름 " + ownerName + ", 계좌 번호 " + accountNumber + ", 초기 잔액 $" + balance);
+        System.out.println("소유자 이름 " + ownerName + ", 계좌 번호 " + accountNumber + ", 잔액 $" + balance);
     }
 
 
