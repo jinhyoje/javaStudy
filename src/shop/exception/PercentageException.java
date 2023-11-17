@@ -1,4 +1,4 @@
-package ShoppingMall.exception;
+package shop.exception;
 
 public class PercentageException extends Exception {
     public PercentageException(String message) {

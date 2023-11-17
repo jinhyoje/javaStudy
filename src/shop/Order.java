@@ -1,7 +1,4 @@
-package ShoppingMall;
-
-import ShoppingMall.Customer;
-import ShoppingMall.Product;
+package shop;
 
 import java.util.ArrayList;
 import java.util.Date;
@@ -34,11 +31,6 @@ public class Order {
         return totalAmount;
     }
 
-    public ArrayList<Product> getOrderProducts() {
-        return orderedProducts;
-    }
-
-
     public Order(String orderId, Customer customer, ArrayList<Product> orderedProducts, double totalAmount, String status) {
         this.id = orderId;
         this.customer = customer;
@@ -46,6 +38,7 @@ public class Order {
         this.totalAmount = totalAmount;
         this.status = "Pending";
     }
+
 
     public void calculateTotalPrice() {
         this.totalAmount = 0;

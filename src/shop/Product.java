@@ -1,6 +1,6 @@
-package ShoppingMall;
+package shop;
 
-import ShoppingMall.exception.PercentageException;
+import shop.exception.PercentageException;
 
 public class Product {
     private String id;

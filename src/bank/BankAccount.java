@@ -1,4 +1,4 @@
-package BankAccount;
+package bank;
 
 public class BankAccount {
     private String ownerName; // private안하면 외부에서 조작가능

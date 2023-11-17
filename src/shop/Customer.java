@@ -1,4 +1,4 @@
-package ShoppingMall;
+package shop;
 
 import java.util.ArrayList;
 
@@ -45,3 +45,6 @@ public class Customer {
 
 
 }
+
+// 데이터와 비즈니스 로직을 분리할 필요
+

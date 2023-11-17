@@ -1,6 +1,6 @@
-package ShoppingMall;
+package shop;
 
-import ShoppingMall.exception.PercentageException;
+import shop.exception.PercentageException;
 
 import java.util.ArrayList;
 
@@ -23,9 +23,9 @@ public class Main {
         customer1.getOrderHistory().add(order1);
 
         // 주문에 책 추가 및 주문 상태 업데이트
-        order1.getOrderProducts().add(book1);
-        order1.getOrderProducts().add(book2);
-        order1.getOrderProducts().add(book3);
+        order1.getOrderedProducts().add(book1);
+        order1.getOrderedProducts().add(book2);
+        order1.getOrderedProducts().add(book3);
 
         book1.updateStock(-1);
         book2.updateStock(-1);
@@ -53,7 +53,7 @@ public class Main {
             System.out.println("주문 상태: " + order.getStatus());
             System.out.println("주문 총액: " + order.getTotalAmount());
 
-            for (Product product : order.getOrderProducts()) {
+            for (Product product : order.getOrderedProducts()) {
                 System.out.println("책 제목: " + product.getName() + " | 저자: " + product.getDescription() + " | 가격: " + product.getPrice() + " | 재고: " + product.getStockQuantity());
             }
 
