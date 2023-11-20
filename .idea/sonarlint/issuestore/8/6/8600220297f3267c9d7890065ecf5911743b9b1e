@@ -1,0 +1,30 @@
+
+W
+java:S1118":Add a private constructor to hide the implicit public one.(Àİ¿²8‚ù†Á¾1
+G	java:S106"+Replace this use of System.out by a logger.(éÁòí8…ù†Á¾1
+L	java:S106"+Replace this use of System.out by a logger.(˜åÂîûÿÿÿÿ8…ù†Á¾1
+F	java:S106"+Replace this use of System.out by a logger.(¨ä‹.8…ù†Á¾1
+F	java:S106"+Replace this use of System.out by a logger.(“öZ8…ù†Á¾1
+G	java:S106"+Replace this use of System.out by a logger.(ãÅÚö8†ù†Á¾1
+F	java:S106"+Replace this use of System.out by a logger.(×ñ±r8†ù†Á¾1
+L	java:S106$"+Replace this use of System.out by a logger.(òÏÔÅúÿÿÿÿ8‡ù†Á¾1
+L	java:S1060"+Replace this use of System.out by a logger.(ãêÈİøÿÿÿÿ8ˆù†Á¾1
+L	java:S1061"+Replace this use of System.out by a logger.(Ó·Øœúÿÿÿÿ8ĞÉ’Á¾1
+G	java:S1062"+Replace this use of System.out by a logger.(¬™³Õ8ĞÉ’Á¾1
+L	java:S1063"+Replace this use of System.out by a logger.(•š„©ùÿÿÿÿ8ĞÉ’Á¾1
+G	java:S1064"+Replace this use of System.out by a logger.(Âï¶Ü8ĞÉ’Á¾1
+G	java:S1065"+Replace this use of System.out by a logger.(òòÏ8ĞÉ’Á¾1
+G	java:S1066"+Replace this use of System.out by a logger.(Íı¥ì8ÑÉ’Á¾1
+G	java:S1067"+Replace this use of System.out by a logger.( ÆÒì8ÒÉ’Á¾1
+L	java:S1068"+Replace this use of System.out by a logger.(éç¬ùÿÿÿÿ8ÒÉ’Á¾1
+L	java:S106;"+Replace this use of System.out by a logger.(Ö¨ë€ùÿÿÿÿ8§ºŞ¾1
+G	java:S106@"+Replace this use of System.out by a logger.(Ã‚æ8§ºŞ¾1
+L	java:S106C"+Replace this use of System.out by a logger.(ãêÈİøÿÿÿÿ8§ºŞ¾1
+F	java:S106H"+Replace this use of System.out by a logger.(Ù¼‡:8§ºŞ¾1
+L	java:S106J"+Replace this use of System.out by a logger.(ê³œÑüÿÿÿÿ8§ºŞ¾1
+L	java:S106L"+Replace this use of System.out by a logger.(²Ï«ªúÿÿÿÿ8§ºŞ¾1
+G	java:S106N"+Replace this use of System.out by a logger.(š¿ê8§ºŞ¾1
+L	java:S106P"+Replace this use of System.out by a logger.(€ñÙéùÿÿÿÿ8§ºŞ¾1
+L	java:S106R"+Replace this use of System.out by a logger.(œ¢Éøÿÿÿÿ8õöÇŞ¾1
+L	java:S106W"+Replace this use of System.out by a logger.(ãêÈİøÿÿÿÿ8ØšÜŞ¾1
+G	java:S106Z"+Replace this use of System.out by a logger.(´¼¶¤8ØšÜŞ¾1

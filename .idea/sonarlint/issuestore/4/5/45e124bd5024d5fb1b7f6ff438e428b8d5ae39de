@@ -1,0 +1,19 @@
+
+L	java:S106"+Replace this use of System.out by a logger.(¹¦…‡úÿÿÿÿ8Øÿª¾1
+L	java:S106"+Replace this use of System.out by a logger.(š—“¿ÿÿÿÿÿ8Ùÿª¾1
+L	java:S106"+Replace this use of System.out by a logger.(°ÈĞıÿÿÿÿ8Ùÿª¾1
+L	java:S106"+Replace this use of System.out by a logger.(šüÔÔşÿÿÿÿ8Ùÿª¾1
+G	java:S106!"+Replace this use of System.out by a logger.(ôˆ»ø8Úÿª¾1
+G	java:S106#"+Replace this use of System.out by a logger.(™Úç‡8Úÿª¾1
+G	java:S106'"+Replace this use of System.out by a logger.(»í‘ö8Úÿª¾1
+G	java:S106("+Replace this use of System.out by a logger.(Ç¨»§8Ûÿª¾1
+G	java:S106."+Replace this use of System.out by a logger.(ª ¥•8Ûÿª¾1
+o
+java:S62044"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(‚ı®Ş8Üÿª¾1
+G	java:S1065"+Replace this use of System.out by a logger.(Êÿıõ8Üÿª¾1
+o
+java:S6204="RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(îÎØí8Üÿª¾1
+F	java:S106>"+Replace this use of System.out by a logger.(ƒÚáB8İÿª¾1
+L	java:S106G"+Replace this use of System.out by a logger.(îÁ–ûÿÿÿÿ8Şÿª¾1
+G	java:S106Y"+Replace this use of System.out by a logger.(ñÀ‘8àÿª¾1
+G	java:S106j"+Replace this use of System.out by a logger.(ßåÀ8àÿª¾1

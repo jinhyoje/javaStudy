@@ -1,0 +1,12 @@
+
+s
+java:S1104"VMake isLoggedIn a static final constant or non-public and provide accessors if needed.(—Ê²¹8††Ìá¾1
+}
+java:S1104 "[Make isAdminLoggedIn a static final constant or non-public and provide accessors if needed.(»¿”Ïüÿÿÿÿ8††Ìá¾1
+M
+java:S1444"0Make this "public static isLoggedIn" field final(—Ê²¹8††Ìá¾1
+W
+java:S1444 "5Make this "public static isAdminLoggedIn" field final(»¿”Ïüÿÿÿÿ8††Ìá¾1
+D
+java:S2189#""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ8•¸Îá¾1
+L	java:S106$"+Replace this use of System.out by a logger.(œ•ñûÿÿÿÿ8††Ìá¾1

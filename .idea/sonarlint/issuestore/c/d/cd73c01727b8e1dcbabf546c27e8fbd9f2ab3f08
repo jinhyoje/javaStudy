@@ -1,0 +1,11 @@
+
+‹
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(‰ü«¹ùÿÿÿÿ
+…
+java:S1319""oThe type of "orderedProducts" should be an interface such as "List" rather than the implementation "ArrayList".(’¯›
+C
+java:S1172""-Remove this unused method parameter "status".(’¯›
+G
+java:S1068",Remove this unused "customer" private field.(íŸŞÛşÿÿÿÿ
+C
+java:S1068"-Remove this unused "orderDate" private field.(˜Ò×

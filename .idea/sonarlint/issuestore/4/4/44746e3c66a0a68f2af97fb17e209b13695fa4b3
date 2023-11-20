@@ -1,0 +1,27 @@
+
+p
+java:S1104"SMake flights a static final constant or non-public and provide accessors if needed.(Ÿ¼˜±8½¬¬µ¾1
+s
+java:S1104"VMake passengers a static final constant or non-public and provide accessors if needed.(¼ÌŞÅ8ñ×®µ¾1
+z
+java:S1104"XMake reservations a static final constant or non-public and provide accessors if needed.(şÌúÿÿÿÿ8¬§®µ¾1
+u
+java:S1104"SMake tickers a static final constant or non-public and provide accessors if needed.(áŒÉ…üÿÿÿÿ8ğ¬°µ¾1
+J
+java:S1444"-Make this "public static flights" field final(Ÿ¼˜±8½¬¬µ¾1
+M
+java:S1444"0Make this "public static passengers" field final(¼ÌŞÅ8ò×®µ¾1
+T
+java:S1444"2Make this "public static reservations" field final(şÌúÿÿÿÿ8®§®µ¾1
+O
+java:S1444"-Make this "public static tickers" field final(áŒÉ…üÿÿÿÿ8ğ¬°µ¾1
+:
+java:S2386"Make this member "protected".(Ÿ¼˜±8Û×«µ¾1
+:
+java:S2386"Make this member "protected".(¼ÌŞÅ8úÙªµ¾1
+?
+java:S2386"Make this member "protected".(şÌúÿÿÿÿ8úÙªµ¾1
+?
+java:S2386"Make this member "protected".(áŒÉ…üÿÿÿÿ8ô¬°µ¾1
+W
+java:S1118":Add a private constructor to hide the implicit public one.(¯¸ä€8úÙªµ¾1

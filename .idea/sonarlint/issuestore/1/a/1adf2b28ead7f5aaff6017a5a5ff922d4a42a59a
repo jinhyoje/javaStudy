@@ -1,0 +1,15 @@
+
+†
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(æ®ì
+
+java:S1319"fThe type of "orders" should be an interface such as "List" rather than the implementation "ArrayList".(¾¢×Àÿÿÿÿÿ
+o
+java:S1450"TRemove the "email" field and declare it as a local variable in the relevant methods.(ª«Õìùÿÿÿÿ
+t
+java:S1450	"^Remove the "shippingAddress" field and declare it as a local variable in the relevant methods.(Ò—¢¯
+<
+java:S1068"&Remove this unused "id" private field.(æ¨ç†
+D
+java:S1068")Remove this unused "email" private field.(ª«Õìùÿÿÿÿ
+I
+java:S1068	"3Remove this unused "shippingAddress" private field.(Ò—¢¯

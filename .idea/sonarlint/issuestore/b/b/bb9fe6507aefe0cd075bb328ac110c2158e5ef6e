@@ -1,0 +1,15 @@
+
+\
+java:S1118	":Add a private constructor to hide the implicit public one.(ıñ»øÿÿÿÿ8ó¸¾¾¾1
+Y
+java:S1172
+"7Remove this unused method parameter "passengerService".(ÓçúÁøÿÿÿÿ8µ›€Á¾1
+L	java:S106"+Replace this use of System.out by a logger.(Êìç™ûÿÿÿÿ8ô¸¾¾¾1
+F	java:S106"+Replace this use of System.out by a logger.(£¹ıf8ô¸¾¾¾1
+G	java:S106"+Replace this use of System.out by a logger.(ä®•ö8õ¸¾¾¾1
+F	java:S106"+Replace this use of System.out by a logger.(â¨j8õ¸¾¾¾1
+F	java:S106"+Replace this use of System.out by a logger.(×ñ±r8õ¸¾¾¾1
+L	java:S106"+Replace this use of System.out by a logger.(şªÍ„ûÿÿÿÿ8õ¸¾¾¾1
+L	java:S106!"+Replace this use of System.out by a logger.(òÏÔÅúÿÿÿÿ8õ¸¾¾¾1
+c
+java:S1128"GRemove this unused import 'reservationapp.controller.FlightController'.(åÂ˜D8ñáƒÁ¾1

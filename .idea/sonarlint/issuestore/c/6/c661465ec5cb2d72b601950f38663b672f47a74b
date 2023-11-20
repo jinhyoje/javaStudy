@@ -1,0 +1,30 @@
+
+W
+java:S1118":Add a private constructor to hide the implicit public one.(Ë½íá8¿—‡à¾1
+\
+java:S1172":Remove this unused method parameter "passengerController".(ı€Èÿÿÿÿÿ8ş£Öà¾1
+L	java:S106"+Replace this use of System.out by a logger.(©ÃÃùÿÿÿÿ8¿—‡à¾1
+G	java:S106"+Replace this use of System.out by a logger.(±Ãÿ®8¿—‡à¾1
+L	java:S106"+Replace this use of System.out by a logger.(÷ˆÎüÿÿÿÿ8¿—‡à¾1
+L	java:S106"+Replace this use of System.out by a logger.(´ğı˜ÿÿÿÿÿ8¿—‡à¾1
+L	java:S106"+Replace this use of System.out by a logger.(¨ÛˆËşÿÿÿÿ8¿—‡à¾1
+L	java:S106"+Replace this use of System.out by a logger.(Ç™‘µÿÿÿÿÿ8¿—‡à¾1
+F	java:S106"+Replace this use of System.out by a logger.(×ñ±r8¿—‡à¾1
+L	java:S106""+Replace this use of System.out by a logger.(ãêÈİøÿÿÿÿ8¿—‡à¾1
+L	java:S106#"+Replace this use of System.out by a logger.(Ó·Øœúÿÿÿÿ8¿—‡à¾1
+G	java:S106$"+Replace this use of System.out by a logger.(¬™³Õ8¿—‡à¾1
+L	java:S106%"+Replace this use of System.out by a logger.(•š„©ùÿÿÿÿ8¿—‡à¾1
+G	java:S106&"+Replace this use of System.out by a logger.(Âï¶Ü8¿—‡à¾1
+G	java:S106'"+Replace this use of System.out by a logger.(òòÏ8¿—‡à¾1
+G	java:S106("+Replace this use of System.out by a logger.(Íı¥ì8¿—‡à¾1
+G	java:S106)"+Replace this use of System.out by a logger.( ÆÒì8¿—‡à¾1
+L	java:S106*"+Replace this use of System.out by a logger.(éç¬ùÿÿÿÿ8¿—‡à¾1
+L	java:S106-"+Replace this use of System.out by a logger.(Ö¨ë€ùÿÿÿÿ8¿—‡à¾1
+L	java:S1061"+Replace this use of System.out by a logger.(ÔĞ„ãûÿÿÿÿ8¿—‡à¾1
+G	java:S1069"+Replace this use of System.out by a logger.(¯ï¸é8¿—‡à¾1
+L	java:S106="+Replace this use of System.out by a logger.(Ç©•üüÿÿÿÿ8¿—‡à¾1
+L	java:S106A"+Replace this use of System.out by a logger.(ØäÎ·ıÿÿÿÿ8¿—‡à¾1
+G	java:S106F"+Replace this use of System.out by a logger.(×ÂÉ‹8¿—‡à¾1
+L	java:S106I"+Replace this use of System.out by a logger.(òÏÔÅúÿÿÿÿ8¿—‡à¾1
+Y
+java:S1128	"<Remove this unused import 'reservationapp.dto.PassengerDTO'.(ÕÆİ‹8ˆ¤Öà¾1
